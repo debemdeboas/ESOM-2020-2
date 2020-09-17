@@ -8,7 +8,7 @@
   - [c)](#c)
   - [d)](#d)
 
-## Enunciado
+# Enunciado
 
 Spring PetClinic é um projeto que nos últimos anos se tornou um arquétipo para a implementação de sistemas baseados em tecnologias web e apps.
 A primeira versão do projeto foi utilizada como um tutorial/demonstração do framework Spring para Java EE.
@@ -29,22 +29,22 @@ c) Como referência, seu objetivo é elaborar um diagrama similar a um dos diagr
 
 d) Entregue o arquivo com o modelo desenvolvido na sala de entrega indicada no Moodle.
 
-## Respostas
+# Respostas
 
-### a)
+## a)
 
 Escolhido o repositóio [Sprint Petclinic](https://github.com/spring-projects/spring-petclinic), feito o fork para [este repositório](https://github.com/ralmeidabem/spring-petclinic) e adicionado como submúdlo [aqui](https://github.com/ralmeidabem/ESOM-2020-2) na pasta `exercicio_03/`.
 
-### b)
+## b)
 
 Diagrama UML:
 
 ![Diagrama UML](DiagramaUML.png)
 
-### c)
+## c)
 
 Ok.
 
-### d)
+## d)
 
 Entrega realizada no Moodle. Arquivo hospedado em um [repositório no GitHub](https://github.com/ralmeidabem/ESOM-2020-2 "Repositório ESOM 2020").

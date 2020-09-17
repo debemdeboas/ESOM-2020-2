@@ -12,7 +12,7 @@ Integrantes da dupla: Pedro Chem e Rafael Almeida.
     - [Agile MDA](#agile-mda)
   - [c)](#c)
 
-## Enunciado
+# Enunciado
 
 Considere o texto de Ambler (2004) visto em aula:
 
@@ -22,17 +22,17 @@ b) Elabore um resumo do artigo de Ambler em uma página A4. O resumo pode ser re
 
 c) Realize a entrega na sala indicada no Moodle.
 
-## Respostas
+# Respostas
 
-### a)
+## a)
 
 Técnica escolhida: the outline method.
 
-### b)
+## b)
 
 Resenha sobre Agile Model Driven Development (AMDD).
 
-#### AMDD Manual
+### AMDD Manual
 
 - Simples
 - Rápido
@@ -43,7 +43,7 @@ Resenha sobre Agile Model Driven Development (AMDD).
 
 ![Modelo AMDD Manual](amddManual.jpg)
 
-#### Agile CASE
+### Agile CASE
 
 - Modelos inclusivos
   - Utilizados para alinhar requisitos com os clientes
@@ -57,7 +57,7 @@ Resenha sobre Agile Model Driven Development (AMDD).
 
 ![Modelo AMDD com ferramenta de design](amddDesignTool.jpg)
 
-#### Agile MDA
+### Agile MDA
 
 - Model Driver Architecture
   - Dito o melhor uso de UML
@@ -69,6 +69,6 @@ Resenha sobre Agile Model Driven Development (AMDD).
 
 ![Modelo MDA](amddMDA.jpg)
 
-### c)
+## c)
 
 Entrega realizada no Moodle. Arquivo hospedado em um [repositório no GitHub](https://github.com/ralmeidabem/ESOM-2020-2 "Repositório ESOM 2020").
