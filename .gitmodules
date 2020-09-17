@@ -1,0 +1,3 @@
+[submodule "exercicio_03/spring-petclinic"]
+	path = exercicio_03/spring-petclinic
+	url = git@github.com:ralmeidabem/spring-petclinic.git
